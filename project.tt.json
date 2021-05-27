@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "myWxapp",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
